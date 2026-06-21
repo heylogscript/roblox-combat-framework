@@ -1,0 +1,27 @@
+# Roblox
+*.rbxl
+*.rbxlx
+*.rbxlx.backup
+*.rbxm
+*.rbxmx
+*.rblx
+
+# Rojo
+*.rbxl
+serve.project.json
+.build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Roblox Studio
+LocalSettings.blob
