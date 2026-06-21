@@ -1,0 +1,27 @@
+{
+	"name": "CombatEngine",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"$path": {
+				"include": "ReplicatedStorage/*"
+			}
+		},
+		"ServerScriptService": {
+			"$className": "ServerScriptService",
+			"$path": {
+				"include": "ServerScriptService/*"
+			}
+		},
+		"StarterPlayer": {
+			"$className": "StarterPlayer",
+			"StarterPlayerScripts": {
+				"$className": "StarterPlayerScripts",
+				"$path": {
+					"include": "StarterPlayerScripts/*"
+				}
+			}
+		}
+	}
+}
